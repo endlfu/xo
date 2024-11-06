@@ -17,11 +17,11 @@ import (
 	"github.com/alexflint/go-arg"
 
 	"github.com/xo/dburl"
-	"github.com/xo/xo/internal"
-	"github.com/xo/xo/models"
+	"github.com/endlfu/xo/internal"
+	"github.com/endlfu/xo/models"
 
-	_ "github.com/xo/xo/loaders"
-	_ "github.com/xo/xoutil"
+	_ "github.com/endlfu/xo/loaders"
+	_ "github.com/endlfu/xoutil"
 )
 
 func main() {
