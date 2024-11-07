@@ -5,7 +5,7 @@ import (
 
 	_ "github.com/denisenkom/go-mssqldb"
 
-	"github.com/knq/snaker"
+	"github.com/kenshaw/snaker"
 
 	"github.com/endlfu/xo/internal"
 	"github.com/endlfu/xo/models"
